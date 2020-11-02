@@ -1,0 +1,18 @@
+.my-box {
+  border: 1px solid #000;
+  background-color: #eee;
+  padding: 20px;
+  margin: 50px;
+}
+
+.clock {
+  border: 1px solid #f00;
+  padding: 20px;
+  margin: 50px;
+}
+
+.incrementer {
+  border: 1px solid #0f0;
+  padding: 20px;
+  margin: 50px;
+}

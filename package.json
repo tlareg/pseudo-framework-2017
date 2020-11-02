@@ -1,0 +1,25 @@
+{
+  "name": "pseudo-framework-2017",
+  "version": "1.0.0",
+  "description": "experiments with creating react-inspired framework - just for fun",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel ./index.html --open",
+    "build": "parcel build ./index.html"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlareg/pseudo-framework-2017.git"
+  },
+  "author": "tlareg <tlaregaivir@gmail.com> (https://github.com/tlareg)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tlareg/pseudo-framework-2017/issues"
+  },
+  "homepage": "https://github.com/tlareg/pseudo-framework-2017#readme"
+}
